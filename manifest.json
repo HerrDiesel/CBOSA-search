@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "CBOSA-search",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Search for judgements by docket number in the Central Database of Judgements of [Polish] Administrative Courts (CBOSA) from the context menu!\n\nWyszukuj orzeczenia po sygnaturze akt w Centralnej Bazie Orzeczeń Sądów Administracyjnych z poziomu menu kontekstowego!",
     "default_locale": "en",
     "icons": {
