@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     let contextMenuItem = {
         "id": "searchCBOSA",
-        "title": "Search CBOSA",
+        "title": chrome.i18n.getMessage('title'),
         "contexts": ["selection"]
     };
       
