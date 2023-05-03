@@ -1,4 +1,4 @@
-# CBOSA-search
+# ![Icon](icon32.png) CBOSA-search
 **Zewnętrzne rozszerzenie do Google Chrome i innych przeglądarek.**
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/HerrDiesel/CBOSA-search/blob/main/README.md)
