@@ -1,4 +1,4 @@
-# CBOSA-search
+# ![Icon](icon32.png) CBOSA-search
 **Third-Party Google Chrome Extension**
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/HerrDiesel/CBOSA-search/blob/main/README.md)
